@@ -6,11 +6,17 @@ It allows passwords to be stored for the user in an encrypted form using AES enc
 The main window of the program has on the top right side a local date and time for user convenience.
 
 It also has the following options:"
+
 1.Add a new Password to the system and an option to add a strong random password that the system creates for the user.
-2.Remove a Password by Website and UserName."
+
+2.Remove a Password by Website and UserName.
+
 3.Open any site that the user desires from the list of passwords stored in the system (Main Table).
+
 4.Option to Login automatically with google-chrome only to the following sites: Facebook and Linkedin.
+
 5.The option to Decrypt (Reveal) any Password the user wants from the table.
+
 6.The option to Simulate an Entrance to any Website the user wants from the table.
 
 # Login Page:
